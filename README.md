@@ -1,13 +1,11 @@
 # Travel-Itinerary-Planner-in-C
-Travel Itinerary Planner in C
-Description
 The Travel Itinerary Planner is a console-based application that enables users to create and manage travel plans by adding, viewing, and deleting stops along their journey. This project, written in C, uses linked lists to allow dynamic handling of multiple destinations. Each stop records a location, date, and description, providing a structured way to organize trips.
 
 Features -
 Add Stop: Easily add new travel destinations with customized details, including the location, date, and description.
 View Itinerary: Display the complete list of stops in order, showing each destination's information.
 Delete Stop: Remove any stop by location, allowing users to keep their itinerary updated and accurate.
-Purpose
+Purpose - 
 This project showcases practical use of C language features such as linked lists, memory allocation, and dynamic data management. By creating an itinerary planner, the project demonstrates effective handling of user input, dynamic structures, and command-line interactions, making it ideal for learning or practicing fundamental C programming concepts.
 
 How It Works -
